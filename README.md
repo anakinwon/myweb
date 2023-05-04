@@ -12,3 +12,10 @@ Java 언어를 개발하는 데에 있어 널리 사용되는 개발 도구로�
 2. Maven (https://maven.apache.org/download.cgi)
 3. IntelliJ IDEA (https://www.jetbrains.com/idea)
 4. Tomcat Server (https://tomcat.apache.org/download-80.cgi)
+
+
+
+<톰캣 로그 한글 깨짐 현상>
+​ 톰캣 설치 경로/conf/logging.properties  파일에서 
+=>   java.util.logging.ConsoleHandler.encoding의 값을 UTF-8 > EUC-KR 로 변경한다.
+
