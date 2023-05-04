@@ -8,7 +8,7 @@ Java 언어를 개발하는 데에 있어 널리 사용되는 개발 도구로�
 
 <JDK와 프로젝트 관리를 위한 Maven 도구>
 
-JDK 8 이상 (https://www.oracle.com/technetwork/java/javase/downloads/index.html)
-Maven (https://maven.apache.org/download.cgi)
-IntelliJ IDEA (https://www.jetbrains.com/idea)
-Tomcat Server (https://tomcat.apache.org/download-80.cgi)
+1. JDK 8 이상 (https://www.oracle.com/technetwork/java/javase/downloads/index.html)
+2. Maven (https://maven.apache.org/download.cgi)
+3. IntelliJ IDEA (https://www.jetbrains.com/idea)
+4. Tomcat Server (https://tomcat.apache.org/download-80.cgi)
